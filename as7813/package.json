@@ -1,0 +1,13 @@
+{
+  "name": "sg-boutique",
+  "version": "1.0.0",
+  "description": "SG Boutique Designer Fashion & Silks - Bellary",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
